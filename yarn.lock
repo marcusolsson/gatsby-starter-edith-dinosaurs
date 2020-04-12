@@ -6386,10 +6386,10 @@ gatsby-telemetry@^1.2.3:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-edith@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-edith/-/gatsby-theme-edith-0.1.0.tgz#b0e9e497b44d5540f7e1e0161b4bd69c13efcfe1"
-  integrity sha512-7GaN66jnTovojmQm2MhjGuRuCUbwIMYQCW+ceXePYKMY4qBKryt/svJ4w+kC88RgbS6hQ0GiIGi86sywp5kjoA==
+gatsby-theme-edith@latest:
+  version "0.2.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-edith/-/gatsby-theme-edith-0.2.0-alpha.1.tgz#698ee130de93c4f4c1b07f5a208c124676488acd"
+  integrity sha512-X7eg35PCyoDBs+aObc4ia3oXC3on7QfUneOvd3KxLhOk6tY8ZIZfT15tU9aaPqx8Fpfg9x5RsDD6TU8A+s5zpg==
   dependencies:
     "@babel/core" "^7.9.0"
     "@babel/preset-env" "^7.9.0"
